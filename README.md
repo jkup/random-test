@@ -1,3 +1,3 @@
 # random-test
 
-Sample commit
+Sample commit part 2
